@@ -14,3 +14,14 @@ a {
 * {
   box-sizing: border-box;
 }
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+  text-decoration: underline;
+}

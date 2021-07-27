@@ -13,10 +13,10 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Welcome to our demo blog!</h1>
-        
+
         <p>
           You can find more articles on the{' '}
-          <Link href="'/blog">
+          <Link href="/blog">
             <a>blog articles page</a>
           </Link>
         </p>
